@@ -1,4 +1,4 @@
-# TrashBandits
+# Trash Bandits
 A personal game being made in Unreal 4 where you play as a raccoon who is a thief trying to steal valuable stuff. The insipiration is a mix of the game "Payday" and "Stray". The game is meant to be a personal project to release on Steam or Epic Games. There are plans to include multiplayer up to 4 players. 
 <br  />
 <br  />
@@ -15,6 +15,11 @@ The player is put in the role of a raccoon in a regular town. With the raccoon b
 ![](https://github.com/Flare5464/TrashBandits/blob/main/TrashBandits_D.gif)
 <br  />
 ## Objectives & Obstacles
-The players' goal is to steal valuable stuff. Ranging from TVs, to Game Consoles, to whatever else a raccoon may find valuable, and secure it in the getaway vehicle. Being a raccoon, they are not welcome in the places they may steal from and must avoid conflict with the residents of the town. Stealth and speed are the players' main tools to achieve their goals. The humans of the 
+The players' goal is to steal valuable stuff. Ranging from TVs, to Game Consoles, to whatever else a raccoon may find valuable, and secure it in the getaway vehicle. Being a raccoon, they are not welcome in the places they may steal from and must avoid conflict with the residents of the town.
+<br  />
 ![](https://github.com/Flare5464/TrashBandits/blob/main/TrashBandits_A.gif)
+![](https://github.com/Flare5464/TrashBandits/blob/main/TrashBandits_B.gif) 
+<br  />
+Stealth and agility are the players' main tools to achieve their goals. The humans of the world have handcrafted AI that allow them to go about their everyday lives, search for the raccoons, and investigate noises created by the raccoons.
+![](https://github.com/Flare5464/TrashBandits/blob/main/TrashBandits_C.gif)
 <br  />
